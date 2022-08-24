@@ -1,0 +1,8 @@
+__pycache__/
+cifar-10-batches-py/
+coco_captioning/
+MNIST_data/
+pretrained_model/
+imagenet_val_25.npz
+data/
+desktop.ini
